@@ -1,9 +1,6 @@
-# Lindera_SDM
-Predicting habitat suitability of Korean Lindera as Tertiary relict plants under climate change scenarios.
-
 # Lindera SDM under Climate Change
 
-This repository contains R scripts used for species distribution modeling (SDM) and niche overlap analysis of four Lindera species under climate change scenarios.
+This repository contains R scripts used for species distribution models (SDMs) and niche overlap analysis of four Lindera species under climate change scenarios.
 
 ## Data
 The data used in this study are available at:
