@@ -43,6 +43,8 @@ library(tools)
 library(tidyverse)
 library(ggcorrplot)
 
+set.seed(1234)
+
 # Raster file calling - VIF ----
 
 setwd("D:/Envdata/Multicorr_var")
