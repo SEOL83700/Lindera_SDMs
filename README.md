@@ -1,4 +1,4 @@
-# Lindera SDM under Climate Change
+# Lindera SDMs under Climate Change
 
 This repository contains R scripts used for species distribution models (SDMs) and niche overlap analysis of four Lindera species under climate change scenarios.
 
