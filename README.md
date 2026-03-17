@@ -10,7 +10,7 @@ The data used in this study are available at:
 https://doi.org/xxxx
 
 ## Requirements
-R version >= 4.0
+R version >= 4.3.0
 
 Required packages:
 biomod2  
