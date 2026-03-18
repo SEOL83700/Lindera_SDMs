@@ -3,7 +3,7 @@
 This repository contains R scripts used for species distribution models (SDMs) and niche overlap analysis of four Lindera species under climate change scenarios.
 
 The data used in this study are available at:
-[https://doi.org/xxxx](https://doi.org/10.6084/m9.figshare.31796251)
+(https://doi.org/10.6084/m9.figshare.31796251)
 
 ## Requirements
 R version >= 4.3.0
